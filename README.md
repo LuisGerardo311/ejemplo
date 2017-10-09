@@ -1,1 +1,2 @@
-# Bienvenido SIG 3D -vamo a hacelo!
+# Bienvenido SIG 3D
+Luis Gerardo Chaparro Penagos
